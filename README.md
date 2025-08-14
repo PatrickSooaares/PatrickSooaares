@@ -15,6 +15,8 @@
 
 # Ferramentas
 <h2> Linguagens de Programação <h2/>
+<div>
+<img align="center" alt="patrick-c" height="40px" wheight="40px"
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
-<img align="center" alt="patrick-c" height="40px" wheight="40px">
-<i class="devicon-c-original"></i>
+</div>
